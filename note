@@ -1,0 +1,17 @@
+tooltip class............
+
+1.  data-bs-toggle="tooltip"
+2.  data-bs-custom-class="custom-tooltip" 
+3.  data-bs-placement="bottom" 
+4.  data-bs-title="Click to submit"
+
+
+color and background changes.........
+.tooltip-inner{
+    background-color:# 
+    color:# 
+}
+
+
+
+js section........ 
